@@ -4476,3 +4476,11 @@ body.is-mobile .banner > article {
     padding: 3rem 0 1rem 0;
   }
 }
+
+/* 新增 */
+h2{
+  color: #00299965;
+  font-weight: bold;
+}
+
+.content { background-color:rgba(208, 234, 238, 0.466); }

@@ -1,3 +1,4 @@
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -7,8 +8,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -19,7 +20,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -64,6 +65,7 @@ h1 {
 	line-height:90px;
 }
 h2 {
+	font-family: Microsoft JhengHei, Arial, Helvetica, Tahoma, sans-serif;
 	font-size:36px;
 	line-height:36px;
 	text-shadow:0 0 1px rgba(51,51,51,0.2);
@@ -72,7 +74,7 @@ h2 {
 	border-bottom:1px solid #ccc;
 }
 h3 {
-	font-family: “Myriad Pro? Arial, Helvetica, Tahoma, sans-serif;
+	font-family: Microsoft JhengHei, Arial, Helvetica, Tahoma, sans-serif;
 	font-size:20px;
 	line-height:26px;
 	font-weight:400;
@@ -109,7 +111,7 @@ a.link, a:active, a:selected {
 	float:left;
 	clear:both;
 }
-#container > div > pre { 
+#container > div > pre {
 	background:#E2DBD1;
 	border:1px solid #D1BFA6;
 	color:#333;
